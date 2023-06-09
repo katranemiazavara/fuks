@@ -1,5 +1,5 @@
 https://itsairborne.com -O mirror-output -v -s0 -n -p3 -c20 -r2 -%e2 -s0 -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"
-File generated automatically on Fri, 09 Jun 2023 19:43:24, do NOT edit
+File generated automatically on Fri, 09 Jun 2023 19:47:23, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
